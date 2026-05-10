@@ -1,0 +1,12 @@
+vendor/
+data/
+data/*
+uploads/
+scripts/
+PHPMailer/
+register_*.bat
+register_*.ps1
+composer.lock
+.env
+.DS_Store
+node_modules/
